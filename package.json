@@ -22,7 +22,7 @@
       "prettier:write": "prettier --write ."
     },
     "dependencies": {
-      "@midl-tech/logger": "1.0.3",
+      "@midl-tech/logger": "1.0.4",
       "@nestjs/axios": "^3.0.2",
       "@nestjs/common": "^10.0.0",
       "@nestjs/config": "^3.2.1",
